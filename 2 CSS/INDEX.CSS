@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: wavy underline;
+}
+h2{
+    color: green;
+    text-align: start;
+    text-decoration: pink line-through;
+}
+h3{
+    color: orange;
+    text-align: end;
+    text-decoration: dotted overline;
+}
+p{
+    color: #000;
+    line-height: 0.5;
+}
+button{
+    color: tomato;
+    letter-spacing : 2px;
+}
